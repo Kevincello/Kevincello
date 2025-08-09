@@ -1,4 +1,4 @@
-<h2 align="left">Hi there~ 👋 I'm Nabz!</h2>
+<h1 align="left">Hi there~ 👋 I,m Kevin!</h1>
 <h2 align="left">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h2>
 
 <p align="left">Hello im a newbie.</p>
