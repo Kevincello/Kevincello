@@ -1,5 +1,5 @@
 <h2 align="left">Hi there~ 👋 I'm Nabz!</h2>
-<h3 align="left">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h3>
+<h2 align="left">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h2>
 
 <p align="left">Hello im a newbie.</p>
 
