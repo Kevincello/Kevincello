@@ -6,11 +6,7 @@
 ###
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/225494675" height="90" style="border-radius: 180px;" />
-</div>
-<br>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kevincello&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
-</div>
 
 <br><br>
 
